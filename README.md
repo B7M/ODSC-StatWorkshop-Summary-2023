@@ -1,4 +1,4 @@
-# ODSC_StatWorkshop_Summary_2023
+# ODSC Stat Workshop Summary 2023
 
 The following is the content presented in the ODSC 2023 West workshop session; the slides were created using the GitHub repository [template](https://github.com/B7M/PyGlide_Actions).
 
